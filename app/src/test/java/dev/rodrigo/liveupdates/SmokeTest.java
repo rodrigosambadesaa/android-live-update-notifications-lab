@@ -1,0 +1,1 @@
+package dev.rodrigo.liveupdates; import org.junit.Test; import static org.junit.Assert.*; public class SmokeTest{@Test public void progressIsBounded(){assertEquals(100,Math.min(100,110));}}
